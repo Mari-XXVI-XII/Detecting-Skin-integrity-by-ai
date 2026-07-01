@@ -1,0 +1,6 @@
+{
+  "name": "Dermalyze",
+  "description": "AI Skin Lesion Classifier for dermoscopy images using vLLM",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Image Analysis", "Medical Diagnosis Assistant"]
+}
